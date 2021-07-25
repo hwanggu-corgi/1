@@ -36,14 +36,14 @@ in the world♥♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #293
+2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #294
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
-            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #212
-                - Corgi adding plots for debugging♥♥♥♥ #83
-                    - Corgi adding plot♥♥♥♥ #51
-                        - Corgi creating candle stick olhc plot♥♥♥♥ #27
-                            - Corgi fixing data bugging out♥♥♥♥ #12
+            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #213
+                - Corgi adding plots for debugging♥♥♥♥ #84
+                    - Corgi adding plot♥♥♥♥ #52
+                        - Corgi creating candle stick olhc plot♥♥♥♥ #28
+                            - Corgi fixing data bugging out♥♥♥♥ #13
                         - Corgi completed making figure scrollable♥♥♥♥
                         - Corgi completed fixing matplotlib is too old error♥♥♥♥
                     - Corgi completed fixing file "fix_historical_data"♥♥♥♥
