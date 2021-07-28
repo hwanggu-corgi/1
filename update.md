@@ -32,14 +32,14 @@ I love you my dear♥♥♥♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #324
+2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #325
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
-            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #243
-                - Corgi adding plots for debugging♥♥♥♥ #113
-                    - Corgi adding plot♥♥♥♥ #82
-                        - Corgi creating candle stick olhc plot♥♥♥♥ #58
-                            - Corgi working on automatically updating plots every 15 minutes♥♥♥♥ #11
+            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #244
+                - Corgi adding plots for debugging♥♥♥♥ #114
+                    - Corgi adding plot♥♥♥♥ #83
+                        - Corgi creating candle stick olhc plot♥♥♥♥ #59
+                            - Corgi working on automatically updating plots every 15 minutes♥♥♥♥ #12
                             - Corgi completed fixing sql not retrieving correctly error♥♥♥♥
                             - Corgi completed fixing connection reset by peer error♥♥♥♥
                                 - 내 자기 is so pretty~♥♥♥♥
