@@ -36,15 +36,15 @@ beautiful girl in the world♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #350
+2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #351
     - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
         - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
-            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #269
-                - Corgi adding plots for debugging♥♥♥♥ #139
-                    - Corgi adding plot♥♥♥♥ #108
-                        - Corgi creating candle stick olhc plot♥♥♥♥ #84
-                            - Corgi working on automatically updating plots every 15 minutes♥♥♥♥ #37
-                                - Corgi adding code for streaming♥♥♥♥ #8
+            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #270
+                - Corgi adding plots for debugging♥♥♥♥ #140
+                    - Corgi adding plot♥♥♥♥ #109
+                        - Corgi creating candle stick olhc plot♥♥♥♥ #85
+                            - Corgi working on automatically updating plots every 15 minutes♥♥♥♥ #38
+                                - Corgi adding code for streaming♥♥♥♥ #9
                             - Corgi completed fixing sql not retrieving correctly error♥♥♥♥
                             - Corgi completed fixing connection reset by peer error♥♥♥♥
                                 - 내 자기 is so pretty~♥♥♥♥
