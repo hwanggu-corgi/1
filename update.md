@@ -32,27 +32,12 @@ love in the world♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #411
-    - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
-        - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
-            - Corgi fixing algo bot trading program to make sure it's working♥♥♥♥ #308
-                - Corgi adding plots for debugging♥♥♥♥ #179
-                    - Corgi adding plot♥♥♥♥ #148
-                        - Corgi creating candle stick olhc plot♥♥♥♥ #124
-                            - Corgi completed automatically updating plots every 15 minutes♥♥♥♥
-                                - Corgi completed adding code for streaming♥♥♥♥
-                            - Corgi completed fixing sql not retrieving correctly error♥♥♥♥
-                            - Corgi completed fixing connection reset by peer error♥♥♥♥
-                                - 내 자기 is so pretty~♥♥♥♥
-                            - Corgi fixed exception ignored error♥♥♥♥
-                        - Corgi completed making figure scrollable♥♥♥♥
-                        - Corgi completed fixing matplotlib is too old error♥♥♥♥
-                    - Corgi completed fixing file "fix_historical_data"♥♥♥♥
-                    - Corgi completed modifying file "fix_historical_data"♥♥♥♥
-                    - 여보~!!!!♥♥♥♥♥♥♥♥
-                    - 사랑해요♥♥♥♥♥♥♥♥♥♥
-                - Corgi learning backtesting indicators♥♥♥♥
-                    - Corgi completed implementing practice trading for NASDAQ♥♥♥
+2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #412
+    - Corgi learning how to create algo trading strategy♥♥
+    - Corgi completed fixing algo bot trading program to make sure it's working♥♥♥♥
+        - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
+            - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
+
 
 3. Corgi working on practicing docker certified associate exam♥♥ #95
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
