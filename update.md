@@ -28,8 +28,8 @@ treasure in the world♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on company task♥♥♥♥ #2
-    - Corgi working on `about us` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥ #2
+2. Corgi working on company task♥♥♥♥ #3
+    - Corgi working on `about us` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥ #3
 
 3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #478
     - Corgi learning how to create algo trading strategy♥♥ #66
