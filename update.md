@@ -28,7 +28,10 @@ treasure in the world♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #477
+2. Corgi working on company task♥♥♥♥
+    - Corgi working on `about us` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥
+
+3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #478
     - Corgi learning how to create algo trading strategy♥♥ #66
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.udemy.com/course/algorithmic-trading-with-python-and-machine-learning♥♥♥♥
@@ -55,7 +58,7 @@ treasure in the world♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
             - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
 
 
-3. Corgi working on practicing docker certified associate exam♥♥ #95
+4. Corgi working on practicing docker certified associate exam♥♥ #95
     - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
         - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
             - Corgi working on `Section 2 - Image Creation, Management, and Registry`♥♥♥♥♥
@@ -72,7 +75,7 @@ treasure in the world♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
                 - Corgi completed lesson (9/28) `ENTRYPOINT Instruction`♥♥♥♥
                 - Corgi completed lesson (7/28) `HEALTHCHECK Instruction`♥♥♥♥
 
-4. [on hold] Corgi working on practicing for TOEFL #178♥♥
+5. [on hold] Corgi working on practicing for TOEFL #178♥♥
     - Corgi learning about 'The complete TOEFL iBT Success Course♥♥
         - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
             - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
