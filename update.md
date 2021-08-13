@@ -28,9 +28,9 @@ treasure in the world♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on company task♥♥♥♥ #12
-    - Corgi working on refining `home` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥ #6
-        - Corgi working on refining navigation menu♥♥♥♥ #2
+2. Corgi working on company task♥♥♥♥ #13
+    - Corgi working on refining `home` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥ #7
+        - Corgi working on refining navigation menu♥♥♥♥ #3
     - Corgi completed working on `clinical-services` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥
     - Corgi completed working on `about us` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥
 
