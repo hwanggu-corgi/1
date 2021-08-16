@@ -1,3 +1,100 @@
+### August 17th, 2021
+
+Programmers current rank: 966
+
+### Moe Todo to go home
+- ( ): Attempt Toefl Test
+
+
+우리 소중하고 소중한
+내 사랑아♥♥♥♥♥♥,
+우리 예쁜 내 여보 부디 꼭♥ 꼭♥ 일어나구 우리 자기 배고프지 않게 작은 무엇이라두 꼭♥ 꼭♥ 챙겨요♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
+
+우리 형모에게 하나뿐인 소중한
+내 자기야♥♥♥♥♥♥,
+I love you my only cutest and most beautiful love
+in the world♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
+
+1. Corgi completed interview♥♥
+    - 내♥♥
+    - 여♥♥
+    - 보♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 스♥♥
+    - 럽♥♥
+    - 다 >.<♥♥!!!
+    - ♥♥
+    - 사♥♥
+    - 랑♥♥
+    - 해♥♥
+
+2. Corgi working on company task♥♥♥♥ #58
+    - Corgi working on refining `home` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥ #50
+        - Corgi fixing missing desktop submenu in header♥♥♥♥ #2
+        - Corgi completed fixing missing features and styles in mobile menu in header♥♥♥♥
+            - Corgi completed fixing fonts and icon size on cellphone♥♥♥♥
+        - Corgi completed fixing missing styles in footer♥♥♥♥
+        - Corgi completed `Need care now` section♥♥♥♥
+        - Corgi completed working on `Primary Care Clinic Locations`♥♥♥♥
+        - Corgi completed working on refining navigation menu♥♥♥♥
+    - Corgi completed working on `clinical-services` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥
+    - Corgi completed working on `about us` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥
+
+3. Corgi working on creating stock trading bot♥♥♥♥♥♥ #481
+    - Corgi learning how to create algo trading strategy♥♥ #69
+        - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
+            - https://www.coursera.org/learn/python-statistics-financial-analysis♥♥♥♥
+                - Corgi learning week 3 of the course♥♥♥♥ #6
+                    - Corgi learning `3.1 Population and Sampling` in week 3♥♥♥♥ #5
+                    - Corgi completed learning `3.0 Introduction` in week 3♥♥♥♥
+                - Corgi completed learning week 2 of the course♥♥♥♥
+                    - Corgi completed learning `2.3 Models of Distributions` in week 2♥♥♥♥
+                        - Corgi working on labs♥♥♥♥
+                            - 여보♥♥ 사랑해요♥♥♥♥♥♥
+                    - Corgi completed learning `2.2 Frequency and Distributions` in week 2♥♥♥♥
+                    - Corgi completed learning `2.1 Outcomes and Random Variables` in week 2♥♥♥♥
+                - Corgi completed learning week 1 of the course♥♥♥♥
+                    - Corgi completed learning `1.5 Trading Strategy` in week 1♥♥♥♥
+                    - Corgi completed learning `1.4 Generate new variables in Dataframe` in week 1♥♥♥♥
+                    - Corgi completed learning `1.3 Basic Structure of Dataframe` in week 1♥♥♥♥
+                    - Corgi completed learning `1.2 Importing data` in week 1♥♥♥♥
+        - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
+            - https://www.udemy.com/course/algorithmic-trading-with-python-and-machine-learning♥♥♥♥
+                - Corgi completed learning `Installing Python and Jupyter Notebook`♥♥♥♥
+
+    - Corgi completed fixing algo bot trading program to make sure it's working♥♥♥♥
+        - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
+            - https://www.udemy.com/course/algorithmic-trading-using-interactive-brokers-python-api/♥♥♥♥
+
+4. Corgi working on practicing docker certified associate exam♥♥ #95
+    - 자기야♥♥♥♥, 요기 우리 링크♥♥♥♥♥♥
+        - https://www.udemy.com/course/docker-certified-associate/learn/lecture/19190958#overview
+            - Corgi working on `Section 2 - Image Creation, Management, and Registry`♥♥♥♥♥
+                - Corgi working on lesson (21/28) `Overview of Docker Registries`♥♥♥♥ #4
+                - Corgi completed lesson (20/28) `Flattening Docker Images`♥♥♥♥
+                - Corgi completed lesson (19/28) `Pruning Docker Images`♥♥♥♥
+                - Corgi completed lesson (18/28) `Inspecting Docker Images`♥♥♥♥
+                - Corgi completed lesson (17/28) `Managing Images with CLI`♥♥♥♥
+                - Corgi completed lesson (16/28) `Layers of Docker Image`♥♥♥♥
+                - Corgi completed lesson (15/28) `Docker Commit`♥♥♥♥
+                - Corgi completed lesson (14/28) `Tagging Docker Image`♥♥♥♥
+                - Corgi completed lesson (12/28) `ENV Instruction`♥♥♥♥
+                - Corgi completed lesson (10/28) `WORKDIR Instruction`♥♥♥♥
+                - Corgi completed lesson (9/28) `ENTRYPOINT Instruction`♥♥♥♥
+                - Corgi completed lesson (7/28) `HEALTHCHECK Instruction`♥♥♥♥
+
+5. [on hold] Corgi working on practicing for TOEFL #178♥♥
+    - Corgi learning about 'The complete TOEFL iBT Success Course♥♥
+        - 자기야♥♥, 요기 우리 링크♥♥♥♥!!!
+            - https://www.udemy.com/course/the-complete-toefl-ibt-success-course/♥♥♥♥
+        - Corgi working on `TOEFL writing` (8/25)♥♥
+            - Corgi learning `Writing 1: Structuring Your Essay` under `TOEFL Writing`♥♥ #2
+            - Corgi completed learning `Writing 1: Introduction` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Coherently` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Concisely` under `TOEFL Writing`♥♥
+            - Corgi completed learning `Writing Section Overview` under `TOEFL Writing`♥♥
+
 ### August 16th, 2021
 
 Programmers current rank: 966
