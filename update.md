@@ -39,9 +39,9 @@ in the world♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on company task♥♥♥♥ #53
-    - Corgi working on refining `home` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥ #45
-        - Corgi fixing missing features and styles in mobile menu in header♥♥♥♥ #5
+2. Corgi working on company task♥♥♥♥ #54
+    - Corgi working on refining `home` page in `imh.morwebcms.com`♥♥♥♥♥♥♥♥ #46
+        - Corgi fixing missing features and styles in mobile menu in header♥♥♥♥ #6
             - Corgi fixing fonts and icon size on cellphone♥♥♥♥
         - Corgi completed fixing missing desktop submenu in header♥♥♥♥
         - Corgi completed fixing missing styles in footer♥♥♥♥
