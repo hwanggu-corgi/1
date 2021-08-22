@@ -27,6 +27,8 @@ I love you so much my baby♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
 2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #535
     - Corgi learning how to create algo trading strategy♥♥ #123
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
+            - https://www.udacity.com/course/ai-for-trading--nd880♥♥♥♥
+                - Corgi working on lesson 1♥♥♥♥
             - https://www.coursera.org/learn/python-statistics-financial-analysis♥♥♥♥
                 - Corgi completed week 4 of the course♥♥♥♥
                     - Corgi completed `Quiz 4` in week 4♥♥♥♥
