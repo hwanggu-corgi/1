@@ -28,9 +28,9 @@ I love you my only and most beautiful treasure in the world♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on company task♥♥♥♥ #3
-    - Corgi working on `home` page in `capfsc.morwebcms.com`♥♥♥♥♥♥♥♥ #3
-        - Corgi working on creating header♥♥♥♥ #2
+2. Corgi working on company task♥♥♥♥ #4
+    - Corgi working on `home` page in `capfsc.morwebcms.com`♥♥♥♥♥♥♥♥ #4
+        - Corgi working on creating header♥♥♥♥ #3
 
 3. [on hold] Corgi working on creating stock trading bot♥♥♥♥♥♥ #555
     - Corgi learning how to create algo trading strategy♥♥ #142
