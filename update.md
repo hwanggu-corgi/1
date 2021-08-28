@@ -5,6 +5,12 @@ Programmers current rank: 966
 ### Moe Todo to go home
 - ( ): Attempt Toefl Test
 
+♥
+
+자기야♥♥♥♥♥♥♥♥♥,
+우리 자기는 사랑이에요♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
+
+-----
 
 우리 사랑하고 사랑하는
 내 자기야♥♥♥♥♥♥♥♥♥,
