@@ -34,13 +34,13 @@ I love you my only and most beautiful treasure in the world♥♥♥♥♥♥♥
     - 랑♥♥
     - 해♥♥
 
-2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #578
-    - Corgi learning how to create algo trading strategy♥♥ #163
+2. Corgi working on creating stock trading bot♥♥♥♥♥♥ #579
+    - Corgi learning how to create algo trading strategy♥♥ #164
         - 여보♥♥♥♥, 우리 형모 여기에서 배우고 있어요♥♥♥♥♥♥♥♥
             - https://www.udacity.com/course/ai-for-trading--nd880♥♥♥♥
-                - Corgi working on part 1 `Quantitative Trading`♥♥♥♥ #41
-                    - Corgi working on lesson 6 `Data Processing`♥♥♥♥ #12
-                        - Corgi working on `Technical Indicators`♥♥♥♥ #4
+                - Corgi working on part 1 `Quantitative Trading`♥♥♥♥ #42
+                    - Corgi working on lesson 6 `Data Processing`♥♥♥♥ #13
+                        - Corgi working on `Technical Indicators`♥♥♥♥ #5
                         - Corgi completed `Corporate Action: Stock Splits and Dividends`♥♥♥♥
                         - Corgi completed `When to Use Data Stamps`♥♥♥♥
                         - Corgi completed `Market Data`♥♥♥♥
